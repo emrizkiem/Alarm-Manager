@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Background Process</string>
+    <string name="start_task">Start Task</string>
+    <string name="status">Status</string>
+    <string name="now_you_see_me">Now you see me!</string>
+    <string name="compressing">Compressing %d %%</string>
+    <string name="task_completed">Task Completed</string>
+    <string name="background_thread">Background Thread</string>
+    <string name="service">Service</string>
+    <string name="start_service">Start Service</string>
+    <string name="start_job_intent_service">Start Job Intent Service</string>
+    <string name="start_bound_service">Start Bound Service</string>
+    <string name="stop_bound_service">Stop bound Service</string>
+    <!--  From this  -->
+    <string name="this_sms_receiver_app">Ini Aplikasi Sms Receiver</string>
+    <string name="download_file">Download a File</string>
+    <string name="coming_from">Download a File</string>
+    <string name="this_play">Oii, main kesini jadi ngga? Sekarang yak.</string>
+    <string name="close">Tutup</string>
+    <string name="check_sms_permission">Check SMS Permission</string>
+    <string name="incoming_message">Incoming Message</string>
+    <string name="from">From : %s</string>
+    <string name="sms_receiver">Sms Receiver</string>
+    <string name="alarm_manager">Alarm Manager</string>
+</resources>
